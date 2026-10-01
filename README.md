@@ -1,9 +1,10 @@
 <div align="center">
 <h1>Hi, I'm tit4nium 👋</h1>
 
-*AI Practitioner & Open Source Contributor*
+<h4><i>AI Practitioner & Open Source Contributor</i></h4>
 
-Linux automation engineer building AI agents that are reliable and easy to keep under control, with security and confidentiality by design.
+Linux automation engineer building AI agents that are reliable and easy<br>
+to keep under control, with security and confidentiality by design.
 </div>
 
 ---
